@@ -1,5 +1,9 @@
-# port-scanner
-
+# scanner port
+<ul>
+<li> script scanner port </li>
+<li> Public at your disposal </li>
+<li> Copying this script is a sign of your stupidity </li>
+</ul>
 - This script will show you the open ports of the server! 
 - Please enter https and http to run correctly 
 -------------------
