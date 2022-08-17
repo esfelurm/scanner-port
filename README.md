@@ -8,18 +8,18 @@
 -------------------
 ## Installation 
 - Instructions for installing the tool 
-- If you don't understand, refer to <a href="https://t.me/esfelurm">Telegram channel</a>
+- `If you don't understand, refer to` <a href="https://t.me/esfelurm">Telegram channel</a>
 -----------------------
 <ol>
-<li> ```pkg install git``` </li>
+<li> pkg install git </li>
 
-<li> `pkg install python3` </li>
+<li> pkg install python3 </li>
 
-<li> `git clone https://github.com/esfelurm/scanner-port.git` </li>
+<li> git clone https://github.com/esfelurm/scanner-port.git </li>
 
-<li> `cd scanner-port` </li>
+<li> cd scanner-port </li>
 
-<li> `python scanner-port.py` </li>
+<li> python scanner-port.py </li>
 </ol>
 
 -------------------------
