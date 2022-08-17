@@ -1,5 +1,5 @@
 # port-scanner
-<h1> script scanner port (tcp) </h1>
+
 - This script will show you the open ports of the server! 
 - Please enter https and http to run correctly 
 -------------------
