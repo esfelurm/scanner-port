@@ -8,7 +8,7 @@
 -------------------
 ## Installation 
 - Instructions for installing the tool 
-- If you don't understand, refer to Telegram channel: 
+- If you don't understand, refer to <a href="https://t.me/esfelurm">Telegram channel</a>
 `pkg install git`
 
 `pkg install python3`
