@@ -17,7 +17,7 @@
 
 `cd scanner-port`
 
-`python scanner-port`
+`python scanner-port.py`
 
 -------------------------
 
