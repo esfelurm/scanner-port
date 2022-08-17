@@ -56,7 +56,7 @@ print (f"{be}____________________________________")
 time.sleep(4)
 print (f"""
 {rd}[-]{yw} Creator channel Telegram: {Lgn}@esfelurm
-{rd}[!]{yw}To use, please enter https and htpp! 
+{rd}[!]{yw}To use, please enter https and http! 
 Example : {gn} Telegram.com
 {rd}[!] Communication is TCP! 
 """)
