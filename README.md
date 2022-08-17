@@ -13,11 +13,11 @@
 
 `pkg install python3`
 
-`git clone https://github.com/esfelurm/port-scanner.git`
+`git clone https://github.com/esfelurm/scanner-port.git`
 
-`cd port-scanner`
+`cd scanner-port`
 
-`python port-scanner.py`
+`python scanner-port`
 
 -------------------------
 
