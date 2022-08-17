@@ -11,7 +11,7 @@
 - If you don't understand, refer to <a href="https://t.me/esfelurm">Telegram channel</a>
 -----------------------
 <ol>
-<li> `pkg install git` </li>
+<li> ```pkg install git``` </li>
 
 <li> `pkg install python3` </li>
 
